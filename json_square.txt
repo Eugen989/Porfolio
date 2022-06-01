@@ -1,0 +1,7 @@
+`{
+  "sq_position" : 0;
+  "sq_view" : "cornfield";
+  "building" : false;
+  "warior" : false;
+  "crew" : 0;
+}`

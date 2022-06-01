@@ -1,0 +1,111 @@
+.field
+{
+  width: 645px;
+  height: 395px;
+
+  border: 2px #000 solid;
+  
+  margin-left: 25px;
+  margin-top: 25px;
+
+  padding-left: 10px;
+
+  /*float: left;*/
+}
+
+.square
+{
+  width: 50px;
+  height: 30px;
+
+  border: 1.5px #000 solid;
+
+  transform: skewX(-30deg);
+
+  float: left;
+  background: #170;
+}
+
+.image_build
+{
+  width: 40px;
+  height: 25px;
+
+}
+
+.build{
+width: 50px;
+height: 28px;
+
+margin-left: 0px;
+margin-top: 0px;
+
+/*size = 100% 100%;*/
+
+Background-image: url("Image/house.png");
+z-index: 1;
+
+position: absolute;
+}
+
+.warior{
+width: 30px;
+height: 35px;
+
+margin-left: 0px;
+margin-top: 0px;
+
+Background-image: url("warior.png");
+z-index: 2;
+
+position: absolute;
+}
+
+.pop_up
+{
+  width: 700px;
+  height: 55px;
+
+  margin-top: 3px;
+  margin-left: 22px;
+
+  background: #24df0c;
+
+  border: solid 1px;
+
+  position: absolute;
+}
+
+.res_button
+{
+  position: absolute;
+  background: #c2c2c2;
+  opacity: .5;
+}
+
+.first_window
+{
+  width: 99vw;
+  height: 99vh;
+
+  border: #000 solid 1px;
+  
+  background: #253;
+
+  position: absolute;
+
+  margin-left: -10px;
+  margin-top: -425px;
+}
+
+.information_framework
+{
+  height: 60px;
+  width: 550px;
+  
+  margin-left: 100px;
+  margin-top: -65px;
+  
+  border: solid #000 0.1px;
+  position: absolute;
+}
